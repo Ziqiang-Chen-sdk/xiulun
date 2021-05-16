@@ -1,11 +1,4 @@
 sdlkfjdsljfeksdlf
 dslkjflkdsjf
-<<<<<<< HEAD
-sdfojkdlso
+sdjflsdkjflkdsf
 
-this is test 1
-
-this is test 2
-=======
-sdfojkdlso
->>>>>>> parent of 0e06f50 (ifjdksfjds)
